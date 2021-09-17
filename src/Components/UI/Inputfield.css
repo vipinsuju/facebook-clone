@@ -1,0 +1,19 @@
+.input-field  {
+    height: 50px;
+    margin-bottom: 10px;
+    width :auto;
+    border :0.5px solid grey;
+    border-radius: 6px;
+    outline: none;
+    padding-left:  20px;
+    background :#FFFFFF;
+    border : 1px solid #dddfe2;
+    color: black;
+    line-height: 16px;
+    font-size: 17px;
+    vertical-align: middle;
+    margin-left: 5px;
+    margin-right: 5px;
+
+
+}
